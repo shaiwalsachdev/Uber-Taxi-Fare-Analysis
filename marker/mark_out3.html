@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Google Marker</title>
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyCoJ7oVpZMv5w1uAXGaHC8Rw8y2dRDtrtc&callback=initMap"
+type="text/javascript"></script>
+</head>
+<body>
+<div id="map" style="width: 800px; height: 600px;"></div>
+
+<script type="text/javascript">
+var locations = [
+['Location1', 40.6911639, -73.9821763],['Location2', 40.6913087, -73.9820625],['Location3', 40.6916618, -73.9817721],['Location4', 40.6919128, -73.9815907],['Location5', 40.6920279, -73.9815199],['Location6', 40.6920319, -73.9817613],['Location7', 40.6920468, -73.9824338],['Location8', 40.692051, -73.9826203],['Location9', 40.6920899, -73.9833969],['Location10', 40.692121, -73.984341],['Location11', 40.6922744, -73.9825451],['Location12', 40.6922891, -73.9827413],['Location13', 40.6928322, -73.9830171],['Location14', 40.6929637, -73.981747],['Location15', 40.6929882, -73.9825041],['Location16', 40.6930026, -73.9833315],['Location17', 40.693036, -73.984292],['Location18', 40.6935918, -73.9835755],['Location19', 40.6936046, -73.9842654],['Location20', 40.6936123, -73.9817371],['Location21', 40.6936181, -73.9843094],['Location22', 40.6936241, -73.9834604],['Location23', 40.6936442, -73.9824992],['Location24', 40.6936564, -73.9843355],['Location25', 40.6936647, -73.9832254],['Location26', 40.6936743, -73.9834021],['Location27', 40.6936996, -73.984342],['Location28', 40.6937243, -73.9834672],['Location29', 40.6937342, -73.9843225],['Location30', 40.6937503, -73.9835307],['Location31', 40.6937577, -73.9838077],['Location32', 40.6937602, -73.984285],['Location33', 40.6937663, -73.9842329],['Location34', 40.6938525, -73.9834935],['Location35', 40.6938711, -73.9833347],['Location36', 40.694227, -73.982481],['Location37', 40.694814, -73.983264]
+];
+var map = new google.maps.Map(document.getElementById('map'), {
+zoom: 10,
+center: new google.maps.LatLng(40.8217009, -73.9529081),
+mapTypeId: google.maps.MapTypeId.ROADMAP
+});
+
+var infowindow = new google.maps.InfoWindow();
+
+var marker, i;
+
+for (i = 0; i < locations.length; i++) {
+marker = new google.maps.Marker({
+position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+map: map
+});
+
+google.maps.event.addListener(marker, 'click', (function(marker, i) {
+return function() {
+infowindow.setContent(locations[i][0]);
+infowindow.open(map, marker);
+}
+})(marker, i));
+}
+</script>
+</body>
+</html>

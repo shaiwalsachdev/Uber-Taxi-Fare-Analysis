@@ -1,0 +1,44 @@
+<html>
+<head>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
+  <script type='text/javascript'>
+   google.charts.load('current', {'packages': ['geomap']});
+   google.charts.setOnLoadCallback(drawMap);
+
+    function drawMap() {
+      dataTable = new google.visualization.DataTable();
+      dataTable.addRows(2);
+      dataTable.addColumn('number', 'LATITUDE', 'Latitude');
+      dataTable.addColumn('number', 'LONGITUDE', 'Longitude');
+      dataTable.addColumn('number', 'VALUE', 'Value'); // Won't use this column, but still must define it.
+    dataTable.addColumn('string', 'HOVER', 'HoverText');
+
+dataTable.setValue(0,0,40.7507927);
+dataTable.setValue(0,1,-74.0056333);
+dataTable.setValue(0,2,1.636363636);
+dataTable.setValue(0,3,"1.636363636");
+     dataTable.setValue(1,0,40.7766012);
+dataTable.setValue(1,1,-73.9466301);
+dataTable.setValue(1,2,1.42);
+dataTable.setValue(1,3,"1.42");
+  
+
+      var options = {};
+      options['region'] = 'US';
+      options['colors'] = [0xFF8747, 0xFFB581, 0xc06000]; //orange colors
+      options['dataMode'] = 'markers';
+
+      var container = document.getElementById('map_canvas');
+      var geomap = new google.visualization.GeoMap(container);
+      geomap.draw(dataTable, options);
+    };
+
+  </script>
+</head>
+
+<body>
+    <div id='map_canvas'></div>
+</body>
+
+</html>

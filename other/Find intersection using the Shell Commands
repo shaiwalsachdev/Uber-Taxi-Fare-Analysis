@@ -1,0 +1,1 @@
+grep -vxF -f file1 file2

@@ -1,0 +1,70 @@
+CPSC651  Phase5  Team 7  Paper:
+1. Lots of data about rides --- Source Lat.Long ,Dest Lat.Long, Fare, and more --- > big Data
+2. Individual ---> Find the top driver based on most Distance Travelled , Most Fare Collected(Total Amount), Most Time travelled , Most efficient Driver User Reviews 
+3. Region Wise --> Find the top Pickup/Dropoff locations 
+4. By Time and Location --- > Same TOp Driver and top Pickup/Dropoff sorted by each hour of day(Average COunt per hour)
+5. Driver Fare Revenue ---->  Net and Gross Revenue of the Driver Per Hour
+6. Did anaylsis to find out the most efficient driver and region which should be target for providing better cab services and also by time of the day.
+
+
+
+uber_pricing: 
+UBER'S DYNAMIC PRICING --- Try to make it transparent and beneficial to the consumers
+Comparing the Yellow City Cabs with UberX
+1. Uber charging more for shorter trips than longer ones thus maintaining a balance in revenue collection.
+2.Observing the pattern of human use of cabs and making the model.
+3. SHorter trips more frequent and thus using this to collect more revenue.
+4. For same lat long OD pair we compare pricing the yellow city vs Uber X(Took mean of low and high estimate)
+5.Uber's Pricing considers a balance between the driver supply and customer demand . Like Manhattan , expensive area less drivers more customers --- > High Prone to SURCHARGE
+6. First --->> How does surge pricing manifest in the city over time and space? 
+7. Second---->> Can we exploit different data sources to predict Uber’s surge pricing patterns?
+8. Surge pricing patterns :: 
+a) the price value of a single route can vary significantly over time(Surge periods for over few hours)
+b)At same time some area surge pricing other still base price bcoz of diff. customer demand vs driver supply in diff. regions.
+c)Experiment. 
+Fix Origin and correlation b/w time series of queries at that region with surcharge/base charge time series ---> strong dependence (0.96)
+Fix Destination and correlation b/w time series of queries at that region with surcharge/base charge time series ---> less dependence (0.57) (Uber
+would benefit from having their drivers move to areas with a high demand.)
+9. Geographic hierarchy of surge pricing :: Finding areas prone to surge pricing.Use (average surge multiplier) ,central and dense areas are more prone to surge, associated to a higher average multiplier.
+10. rank areas from higher to lower surge values. :: Assume uniform driver supply and collect customer demand data from diff cab companies and compare.So estimate demand, find popular destinations get an idea abt. population density using diff. datasets.
+Supervised Training :: y ---> surcharge multiplier
+					x(i) --- >>demand data collected at area i
+					Train the model-- > Estimate the surcharge multiplier of the area
+Correlation B/w diff. areas found out now and compared.
+
+
+http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
+1. Plot the pickup and dropoff into a map and anaylzed the regions having most acivity also seen the yellow and green taxis.
+2. Brooklyn---Rise of Uber between June 2014 and June 2015, the number of Uber pickups in Brooklyn grew by 525%
+3. Uber made 1.4 million more Manhattan pickups in June 2015 than it did in June 2014, while taxis made 1.1 million fewer pickups. 
+4.However, even though Uber picked up nearly 2 million Manhattan passengers in June 2015, Uber still accounts for less than 15% of total Manhattan pickups.
+5.Analyzed time taken to reach different airports.
+6. Weather Affect Taxi and Uber Ridership---
+Uber was more often used in snowfall and precipitation.Uber is well-known for its surge pricing during times of high demand, which often includes inclement weather.
+It seems,Uber’s capacity seems less negatively impacted by bad weather relative to taxi capacity.(Still no comments)
+7.10 PM and 5 AM --- Late night
+8.More payment with credit cards (Increasing Day by Day)
+
+
+
+
+http://toddwschneider.com/posts/taxi-uber-lyft-usage-new-york-city/
+(Comapre Yellow taxi vs Uber vs Lyft)
+1. Plot the Graphs on their usage , Highest is Yellow and Lowest if Lyft.
+2. Based on Total Vehicles on the Road , also plot. 
+Yellow - constant
+Uber -- maximum
+Lyft -- Least
+3. Lyft trips decreasing (Not sure)
+
+
+http://repository.uwyo.edu/cgi/viewcontent.cgi?article=1032&context=honors_theses_15-16
+1.Medallion System
+2.Taxi Market Model of Medallion System
+3.Uber Prices in 2016 in NYC and US (uberx mostly)
+4.Ride sharing app Uber and Lyft are
+5.Current Problem is old regulations which penalize these new cab sharing services that come out of techonology advancement.
+
+
+http://www.ridesharingdriver.com/how-much-does-uber-cost-uber-fare-estimator/
+

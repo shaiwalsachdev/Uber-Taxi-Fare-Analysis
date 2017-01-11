@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+box-sizing: border-box;
+}
+
+#map {
+width: 800px;
+height: 600px;
+border: 1px solid black;
+}
+
+#legend {
+position: relative;
+width: 400px;
+height: 30px;
+margin-top: 10px;
+}
+
+#legendGradient {
+width: 100%;
+height: 15px;
+border: 1px solid black;
+}
+</style>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCoJ7oVpZMv5w1uAXGaHC8Rw8y2dRDtrtc&libraries=places,visualization&sensor=false"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+<script type="text/javascript">
+
+var map, pointarray, heatmap, gradient;
+
+var taxiData = [
+{location:new google.maps.LatLng(40.7507927, -74.0056333),weight:1.63636363636},{location:new google.maps.LatLng(40.743389, -73.986147),weight:1.77777777778},{location:new google.maps.LatLng(40.7766012, -73.9466301),weight:1.42},{location:new google.maps.LatLng(40.7795072, -73.9555814),weight:1.52222222222},{location:new google.maps.LatLng(40.740442, -73.994593),weight:1.74166666667}
+];
+function initialize() {
+var mapOptions = {
+zoom: 13,
+center: new google.maps.LatLng(40.7507927, -74.0056333),
+mapTypeId: google.maps.MapTypeId.ROADMAP
+};
+
+map = new google.maps.Map(document.getElementById('map'),
+mapOptions);
+
+var pointArray = new google.maps.MVCArray(taxiData);
+
+heatmap = new google.maps.visualization.HeatmapLayer({
+data: pointArray,
+radius: 20
+});
+
+heatmap.setMap(map);
+
+//changeOpacity();
+
+setGradient();
+setLegendGradient();
+setLegendLabels();
+}
+
+
+function changeOpacity() {
+heatmap.set('opacity', heatmap.get('opacity') ? null : 1.0);
+}
+function setGradient() {
+gradient = [
+'rgba(0, 255, 255, 0)',
+'rgba(0, 255, 255, 1)',
+'rgba(0, 191, 255, 1)',
+'rgba(0, 127, 255, 1)',
+'rgba(0, 63, 255, 1)',
+'rgba(0, 0, 255, 1)',
+'rgba(0, 0, 223, 1)',
+'rgba(0, 0, 191, 1)',
+'rgba(0, 0, 159, 1)',
+'rgba(0, 0, 127, 1)',
+'rgba(63, 0, 91, 1)',
+'rgba(127, 0, 63, 1)',
+'rgba(191, 0, 31, 1)',
+'rgba(255, 0, 0, 1)'
+]
+heatmap.set('gradient', gradient);
+}
+
+function setLegendGradient() {
+var gradientCss = '(left';
+for (var i = 0; i < gradient.length; ++i) {
+gradientCss += ', ' + gradient[i];
+}
+gradientCss += ')';
+
+$('#legendGradient').css('background', '-webkit-linear-gradient' + gradientCss);
+$('#legendGradient').css('background', '-moz-linear-gradient' + gradientCss);
+$('#legendGradient').css('background', '-o-linear-gradient' + gradientCss);
+$('#legendGradient').css('background', 'linear-gradient' + gradientCss);
+}
+
+function setLegendLabels() {
+google.maps.event.addListenerOnce(map, 'tilesloaded', function() {
+var maxIntensity = null;
+var getMax = heatmap['gm_bindings_']['data'];
+if(typeof getMax !== 'undefined') {
+for(var p in getMax){ maxIntensity = getMax[p].Od.j; break; }
+}
+var legendWidth = $('#legendGradient').outerWidth();
+for (var i = 0; i <= maxIntensity; ++i) {
+var offset = i * legendWidth / maxIntensity;
+if (i > 0 && i < maxIntensity) {
+offset -= 0.5;
+} else if (i == maxIntensity) {
+offset -= 1;
+}
+
+// $('#legend').append($('<div>').css({
+//     'position': 'absolute',
+//     'left': offset + 'px',
+//     'top': '15px',
+//     'width': '1px',
+//     'height': '3px',
+//     'background': 'black'
+// }));
+// $('#legend').append($('<div>').css({
+//     'position': 'absolute',
+//     'left': (offset - 5) + 'px',
+//     'top': '18px',
+//     'width': '10px',
+//     'text-align': 'center',
+//     'font-size': '0.8em',
+// }).html(i));
+}
+});
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+</script>
+
+</head>
+<body>
+<div id="map"></div>
+<div id="legend">
+<div id="legendGradient"></div>
+</div>
+</body>
+
+</html>

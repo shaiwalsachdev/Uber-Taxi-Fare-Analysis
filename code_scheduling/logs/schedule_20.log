@@ -1,0 +1,637 @@
+discarding /home/bt2/14CS10061/miniconda2/envs/geekdon/bin from PATH
+prepending /home/bt2/14CS10061/miniconda2/envs/geekdon/bin to PATH
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 1 1 1256 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_1_1_1256.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 2 1257 2512 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_2_1257_2512.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 3 2513 3768 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_3_2513_3768.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 4 3769 5024 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_4_3769_5024.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 5 5025 6280 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_5_5025_6280.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 6 6281 7536 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_6_6281_7536.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 7 7537 8792 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_7_7537_8792.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 8 8793 10048 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_8_8793_10048.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 9 10049 11304 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_9_10049_11304.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 10 11305 12560 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_10_11305_12560.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 11 12561 13816 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_11_12561_13816.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 12 13817 15072 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_12_13817_15072.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 13 15073 16328 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_13_15073_16328.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 14 16329 17584 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_14_16329_17584.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 15 17585 18840 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_15_17585_18840.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 16 18841 20096 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_16_18841_20096.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 17 20097 21352 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_17_20097_21352.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 18 21353 22608 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_18_21353_22608.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 19 22609 23864 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_19_22609_23864.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 20 23865 25120 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_20_23865_25120.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 21 25121 26376 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_21_25121_26376.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 22 26377 27632 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_22_26377_27632.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 23 27633 28888 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_23_27633_28888.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 24 28889 30144 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_24_28889_30144.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 25 30145 31400 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_25_30145_31400.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 26 31401 32656 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_26_31401_32656.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 27 32657 33912 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_27_32657_33912.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 28 33913 35168 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_28_33913_35168.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 29 35169 36424 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_29_35169_36424.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 30 36425 37680 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_30_36425_37680.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 31 37681 38936 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_31_37681_38936.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 32 38937 40192 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_32_38937_40192.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 33 40193 41448 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_33_40193_41448.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 34 41449 42704 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_34_41449_42704.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 35 42705 43960 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_35_42705_43960.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 36 43961 45216 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_36_43961_45216.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 37 45217 46472 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_37_45217_46472.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 38 46473 47728 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_38_46473_47728.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 39 47729 48984 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_39_47729_48984.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 40 48985 50240 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_40_48985_50240.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 41 50241 51496 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_41_50241_51496.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 42 51497 52752 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_42_51497_52752.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 43 52753 54008 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_43_52753_54008.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 44 54009 55264 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_44_54009_55264.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 45 55265 56520 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_45_55265_56520.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 46 56521 57776 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_46_56521_57776.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 47 57777 59032 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_47_57777_59032.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 48 59033 60288 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_48_59033_60288.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 49 60289 61544 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_49_60289_61544.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 50 61545 62800 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_50_61545_62800.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 51 62801 64056 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_51_62801_64056.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 52 64057 65312 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_52_64057_65312.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 53 65313 66568 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_53_65313_66568.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 54 66569 67824 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_54_66569_67824.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 55 67825 69080 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_55_67825_69080.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 56 69081 70336 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_56_69081_70336.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 57 70337 71592 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_57_70337_71592.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 58 71593 72848 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_58_71593_72848.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 59 72849 74104 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_59_72849_74104.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 60 74105 75360 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_60_74105_75360.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 61 75361 76616 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_61_75361_76616.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 62 76617 77872 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_62_76617_77872.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 63 77873 79128 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_63_77873_79128.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 64 79129 80384 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_64_79129_80384.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 65 80385 81640 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_65_80385_81640.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 66 81641 82896 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_66_81641_82896.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 67 82897 84152 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_67_82897_84152.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 68 84153 85408 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_68_84153_85408.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 69 85409 86664 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_69_85409_86664.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 70 86665 87920 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_70_86665_87920.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 71 87921 89176 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_71_87921_89176.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 72 89177 90432 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_72_89177_90432.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 73 90433 91688 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_73_90433_91688.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 74 91689 92944 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_74_91689_92944.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 75 92945 94200 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_75_92945_94200.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 76 94201 95456 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_76_94201_95456.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 77 95457 96712 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_77_95457_96712.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 78 96713 97968 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_78_96713_97968.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 79 97969 99224 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_79_97969_99224.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 80 99225 100480 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_80_99225_100480.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 81 100481 101736 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_81_100481_101736.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 82 101737 102992 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_82_101737_102992.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 83 102993 104248 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_83_102993_104248.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 84 104249 105504 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_84_104249_105504.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 85 105505 106760 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_85_105505_106760.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 86 106761 108016 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_86_106761_108016.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 87 108017 109272 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_87_108017_109272.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 88 109273 110528 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_88_109273_110528.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 89 110529 111784 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_89_110529_111784.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 90 111785 113040 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_90_111785_113040.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 91 113041 114296 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_91_113041_114296.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 92 114297 115552 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_92_114297_115552.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 93 115553 116808 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_93_115553_116808.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 94 116809 118064 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_94_116809_118064.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 95 118065 119320 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_95_118065_119320.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 96 119321 120576 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_96_119321_120576.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 97 120577 121832 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_97_120577_121832.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 98 121833 123088 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_98_121833_123088.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 99 123089 124344 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_99_123089_124344.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 100 124345 125600 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_100_124345_125600.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 101 125601 126856 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_101_125601_126856.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 102 126857 128112 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_102_126857_128112.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 103 128113 129368 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_103_128113_129368.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 104 129369 130624 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_104_129369_130624.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 105 130625 131880 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_105_130625_131880.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 106 131881 133136 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_106_131881_133136.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 107 133137 134392 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_107_133137_134392.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 108 134393 135648 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_108_134393_135648.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 109 135649 136904 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_109_135649_136904.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 110 136905 138160 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_110_136905_138160.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 111 138161 139416 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_111_138161_139416.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 112 139417 140672 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_112_139417_140672.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 113 140673 141928 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_113_140673_141928.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 114 141929 143184 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_114_141929_143184.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 115 143185 144440 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_115_143185_144440.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 116 144441 145696 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_116_144441_145696.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 117 145697 146952 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_117_145697_146952.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 118 146953 148208 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_118_146953_148208.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 119 148209 149464 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_119_148209_149464.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 120 149465 150720 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_120_149465_150720.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 121 150721 151976 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_121_150721_151976.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 122 151977 153232 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_122_151977_153232.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 123 153233 154488 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_123_153233_154488.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 124 154489 155744 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_124_154489_155744.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 125 155745 157000 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_125_155745_157000.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 126 157001 158256 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_126_157001_158256.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 127 158257 159512 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_127_158257_159512.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 128 159513 160768 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_128_159513_160768.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 129 160769 162024 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_129_160769_162024.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 130 162025 163280 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_130_162025_163280.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 131 163281 164536 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_131_163281_164536.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 132 164537 165792 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_132_164537_165792.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 133 165793 167048 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_133_165793_167048.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 134 167049 168304 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_134_167049_168304.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 135 168305 169560 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_135_168305_169560.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 136 169561 170816 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_136_169561_170816.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 137 170817 172072 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_137_170817_172072.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 138 172073 173328 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_138_172073_173328.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 139 173329 174584 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_139_173329_174584.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 140 174585 175840 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_140_174585_175840.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 141 175841 177096 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_141_175841_177096.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 142 177097 178352 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_142_177097_178352.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 143 178353 179608 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_143_178353_179608.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 144 179609 180864 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_144_179609_180864.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 145 180865 182120 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_145_180865_182120.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 146 182121 183376 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_146_182121_183376.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 147 183377 184632 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_147_183377_184632.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 148 184633 185888 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_148_184633_185888.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 149 185889 187144 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_149_185889_187144.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 150 187145 188400 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_150_187145_188400.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 151 188401 189656 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_151_188401_189656.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 152 189657 190912 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_152_189657_190912.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 153 190913 192168 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_153_190913_192168.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 154 192169 193424 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_154_192169_193424.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 155 193425 194680 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_155_193425_194680.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 156 194681 195936 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_156_194681_195936.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 157 195937 197192 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_157_195937_197192.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 158 197193 198448 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_158_197193_198448.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 159 198449 199704 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_159_198449_199704.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 160 199705 200960 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_160_199705_200960.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 161 200961 202216 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_161_200961_202216.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 162 202217 203472 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_162_202217_203472.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 163 203473 204728 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_163_203473_204728.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 164 204729 205984 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_164_204729_205984.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 165 205985 207240 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_165_205985_207240.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 166 207241 208496 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_166_207241_208496.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 167 208497 209752 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_167_208497_209752.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 168 209753 211008 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_168_209753_211008.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 169 211009 212264 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_169_211009_212264.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 170 212265 213520 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_170_212265_213520.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 171 213521 214776 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_171_213521_214776.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 172 214777 216032 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_172_214777_216032.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 173 216033 217288 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_173_216033_217288.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 174 217289 218544 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_174_217289_218544.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 175 218545 219800 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_175_218545_219800.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 176 219801 221056 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_176_219801_221056.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 177 221057 222312 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_177_221057_222312.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 178 222313 223568 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_178_222313_223568.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 179 223569 224824 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_179_223569_224824.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 180 224825 226080 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_180_224825_226080.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 181 226081 227336 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_181_226081_227336.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 182 227337 228592 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_182_227337_228592.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 183 228593 229848 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_183_228593_229848.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 184 229849 231104 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_184_229849_231104.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 185 231105 232360 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_185_231105_232360.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 186 232361 233616 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_186_232361_233616.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 187 233617 234872 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_187_233617_234872.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 188 234873 236128 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_188_234873_236128.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 189 236129 237384 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_189_236129_237384.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 190 237385 238640 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_190_237385_238640.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 191 238641 239896 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_191_238641_239896.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 192 239897 241152 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_192_239897_241152.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 193 241153 242408 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_193_241153_242408.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 194 242409 243664 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_194_242409_243664.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 195 243665 244920 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_195_243665_244920.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 196 244921 246176 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_196_244921_246176.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 197 246177 247432 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_197_246177_247432.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 198 247433 248688 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_198_247433_248688.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 199 248689 249944 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_199_248689_249944.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 200 249945 251200 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_200_249945_251200.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 1 251201 251210 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_1_251201_251210.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 2 251211 251220 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_2_251211_251220.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 3 251221 251230 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_3_251221_251230.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 4 251231 251240 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_4_251231_251240.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 5 251241 251250 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_5_251241_251250.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 6 251251 251260 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_6_251251_251260.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 7 251261 251270 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_7_251261_251270.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 8 251271 251280 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_8_251271_251280.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 9 251281 251290 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_9_251281_251290.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 10 251291 251300 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_10_251291_251300.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 11 251301 251310 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_11_251301_251310.log &
+nohup time python -u /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/code/collectdata_v5_20.py 12 251311 251318 > /home/bt2/14CS10061/shaiwal/Uber/ByTimezone/20/logs/collectdata_v5_20_12_251311_251318.log &
+done
+1.65user 0.71system 7:10.08elapsed 0%CPU (0avgtext+0avgdata 54952maxresident)k
+88inputs+48outputs (1major+23700minor)pagefaults 0swaps
+1.59user 0.72system 7:14.55elapsed 0%CPU (0avgtext+0avgdata 55008maxresident)k
+88inputs+64outputs (1major+23666minor)pagefaults 0swaps
+1.65user 0.73system 7:20.53elapsed 0%CPU (0avgtext+0avgdata 55028maxresident)k
+88inputs+96outputs (1major+24359minor)pagefaults 0swaps
+1.57user 0.75system 7:20.72elapsed 0%CPU (0avgtext+0avgdata 55028maxresident)k
+88inputs+72outputs (1major+24230minor)pagefaults 0swaps
+1.67user 0.70system 7:23.11elapsed 0%CPU (0avgtext+0avgdata 55012maxresident)k
+88inputs+48outputs (1major+23842minor)pagefaults 0swaps
+1.61user 0.75system 7:20.64elapsed 0%CPU (0avgtext+0avgdata 55032maxresident)k
+96inputs+64outputs (1major+23720minor)pagefaults 0swaps
+1.64user 0.75system 7:22.48elapsed 0%CPU (0avgtext+0avgdata 55024maxresident)k
+88inputs+104outputs (1major+24355minor)pagefaults 0swaps
+1.62user 0.70system 7:20.30elapsed 0%CPU (0avgtext+0avgdata 55020maxresident)k
+88inputs+72outputs (1major+23712minor)pagefaults 0swaps
+1.62user 0.70system 7:23.87elapsed 0%CPU (0avgtext+0avgdata 55032maxresident)k
+104inputs+72outputs (1major+23846minor)pagefaults 0swaps
+1.64user 0.68system 7:20.22elapsed 0%CPU (0avgtext+0avgdata 55020maxresident)k
+88inputs+72outputs (1major+23844minor)pagefaults 0swaps
+1.64user 0.72system 7:24.59elapsed 0%CPU (0avgtext+0avgdata 55024maxresident)k
+88inputs+72outputs (1major+23844minor)pagefaults 0swaps
+1.58user 0.72system 7:22.66elapsed 0%CPU (0avgtext+0avgdata 55032maxresident)k
+88inputs+96outputs (1major+24260minor)pagefaults 0swaps447.80user 5.88system 31:20.26elapsed 2%CPU (0avgtext+0avgdata 55924maxresident)k
+752inputs+8736outputs (1major+131022minor)pagefaults 0swaps
+48.31user 5.63system 31:07.62elapsed 2%CPU (0avgtext+0avgdata 55948maxresident)k
+752inputs+6816outputs (1major+130272minor)pagefaults 0swaps550.85user 9.08system 52:42.89elapsed 1%CPU (0avgtext+0avgdata 64872maxresident)k
+760inputs+9360outputs (1major+132370minor)pagefaults 0swaps
+51.19user 9.53system 52:46.54elapsed 1%CPU (0avgtext+0avgdata 65004maxresident)k
+760inputs+9640outputs (1major+133072minor)pagefaults 0swaps
+51.31user 9.38system 53:26.25elapsed 1%CPU (0avgtext+0avgdata 64868maxresident)k
+752inputs+8000outputs (1major+132740minor)pagefaults 0swaps
+51.05user 9.16system 53:19.29elapsed 1%CPU (0avgtext+0avgdata 64908maxresident)k
+752inputs+8872outputs (1major+132932minor)pagefaults 0swaps
+51.73user 9.16system 52:49.67elapsed 1%CPU (0avgtext+0avgdata 65172maxresident)k
+240inputs+9640outputs (1major+132587minor)pagefaults 0swaps
+50.51user 9.42system 52:58.02elapsed 1%CPU (0avgtext+0avgdata 64844maxresident)k
+760inputs+9512outputs (1major+132910minor)pagefaults 0swaps
+51.37user 9.33system 53:28.81elapsed 1%CPU (0avgtext+0avgdata 65012maxresident)k
+760inputs+9712outputs (1major+132440minor)pagefaults 0swaps
+51.61user 8.99system 53:18.36elapsed 1%CPU (0avgtext+0avgdata 64900maxresident)k
+760inputs+8792outputs (1major+132760minor)pagefaults 0swaps
+50.98user 10.24system 53:37.49elapsed 1%CPU (0avgtext+0avgdata 64888maxresident)k
+760inputs+9592outputs (1major+132471minor)pagefaults 0swaps
+51.79user 10.41system 53:37.21elapsed 1%CPU (0avgtext+0avgdata 65124maxresident)k
+752inputs+8152outputs (1major+132664minor)pagefaults 0swaps
+51.39user 9.74system 53:20.56elapsed 1%CPU (0avgtext+0avgdata 65136maxresident)k
+752inputs+9352outputs (1major+132531minor)pagefaults 0swaps
+50.85user 9.78system 53:20.58elapsed 1%CPU (0avgtext+0avgdata 65228maxresident)k
+752inputs+9656outputs (1major+133005minor)pagefaults 0swaps
+51.19user 9.62system 53:06.50elapsed 1%CPU (0avgtext+0avgdata 64992maxresident)k
+752inputs+9216outputs (1major+133030minor)pagefaults 0swaps
+50.87user 9.41system 53:59.07elapsed 1%CPU (0avgtext+0avgdata 65016maxresident)k
+752inputs+9432outputs (1major+132417minor)pagefaults 0swaps
+51.26user 9.37system 53:04.00elapsed 1%CPU (0avgtext+0avgdata 65216maxresident)k
+376inputs+9640outputs (1major+132721minor)pagefaults 0swaps
+51.05user 8.76system 53:23.68elapsed 1%CPU (0avgtext+0avgdata 65104maxresident)k
+728inputs+9488outputs (1major+132499minor)pagefaults 0swaps
+51.32user 8.88system 53:06.49elapsed 1%CPU (0avgtext+0avgdata 64964maxresident)k
+752inputs+8928outputs (1major+132442minor)pagefaults 0swaps
+51.10user 9.97system 53:34.91elapsed 1%CPU (0avgtext+0avgdata 65020maxresident)k
+752inputs+8872outputs (1major+132635minor)pagefaults 0swaps
+52.03user 9.59system 53:05.82elapsed 1%CPU (0avgtext+0avgdata 65012maxresident)k
+648inputs+9128outputs (1major+132991minor)pagefaults 0swaps
+51.18user 8.88system 53:42.18elapsed 1%CPU (0avgtext+0avgdata 65020maxresident)k
+760inputs+8296outputs (1major+132479minor)pagefaults 0swaps
+52.07user 9.22system 53:26.00elapsed 1%CPU (0avgtext+0avgdata 65244maxresident)k
+752inputs+8920outputs (1major+132483minor)pagefaults 0swaps
+51.21user 9.66system 53:55.14elapsed 1%CPU (0avgtext+0avgdata 64836maxresident)k
+760inputs+8848outputs (1major+132748minor)pagefaults 0swaps
+51.67user 9.39system 53:43.86elapsed 1%CPU (0avgtext+0avgdata 65104maxresident)k
+720inputs+8976outputs (1major+132897minor)pagefaults 0swaps
+51.08user 9.51system 53:56.23elapsed 1%CPU (0avgtext+0avgdata 64844maxresident)k
+2160inputs+9304outputs (1major+132970minor)pagefaults 0swaps
+50.58user 9.45system 54:00.57elapsed 1%CPU (0avgtext+0avgdata 64956maxresident)k
+752inputs+9472outputs (1major+132417minor)pagefaults 0swaps
+51.54user 10.29system 53:44.60elapsed 1%CPU (0avgtext+0avgdata 64952maxresident)k
+752inputs+7928outputs (1major+132827minor)pagefaults 0swaps
+51.22user 9.77system 53:28.96elapsed 1%CPU (0avgtext+0avgdata 65192maxresident)k
+720inputs+9176outputs (1major+132499minor)pagefaults 0swaps
+51.26user 9.52system 53:40.39elapsed 1%CPU (0avgtext+0avgdata 64884maxresident)k
+760inputs+9736outputs (1major+132410minor)pagefaults 0swaps
+51.33user 9.88system 53:10.10elapsed 1%CPU (0avgtext+0avgdata 65128maxresident)k
+240inputs+9080outputs (1major+132985minor)pagefaults 0swaps
+50.97user 8.84system 54:05.86elapsed 1%CPU (0avgtext+0avgdata 64872maxresident)k
+752inputs+9264outputs (1major+132962minor)pagefaults 0swaps
+51.02user 9.27system 53:38.80elapsed 1%CPU (0avgtext+0avgdata 64912maxresident)k
+760inputs+8760outputs (1major+132353minor)pagefaults 0swaps
+51.19user 8.86system 54:04.48elapsed 1%CPU (0avgtext+0avgdata 64996maxresident)k
+752inputs+9552outputs (1major+132423minor)pagefaults 0swaps
+51.46user 9.94system 53:14.29elapsed 1%CPU (0avgtext+0avgdata 64760maxresident)k
+752inputs+9624outputs (1major+132412minor)pagefaults 0swaps
+51.53user 9.78system 53:29.43elapsed 1%CPU (0avgtext+0avgdata 64916maxresident)k
+760inputs+8704outputs (1major+132732minor)pagefaults 0swaps
+50.78user 9.77system 53:43.12elapsed 1%CPU (0avgtext+0avgdata 64892maxresident)k
+752inputs+8504outputs (1major+132423minor)pagefaults 0swaps
+51.08user 9.08system 53:35.36elapsed 1%CPU (0avgtext+0avgdata 64924maxresident)k
+760inputs+9008outputs (1major+132936minor)pagefaults 0swaps
+50.81user 9.66system 53:59.40elapsed 1%CPU (0avgtext+0avgdata 64880maxresident)k
+1088inputs+9096outputs (1major+132907minor)pagefaults 0swaps
+50.97user 9.79system 53:49.93elapsed 1%CPU (0avgtext+0avgdata 64904maxresident)k
+760inputs+9464outputs (1major+132836minor)pagefaults 0swaps
+51.46user 9.12system 54:03.58elapsed 1%CPU (0avgtext+0avgdata 65040maxresident)k
+784inputs+9560outputs (1major+132385minor)pagefaults 0swaps
+50.89user 8.97system 53:44.11elapsed 1%CPU (0avgtext+0avgdata 64940maxresident)k
+752inputs+8360outputs (1major+132862minor)pagefaults 0swaps
+51.35user 9.98system 53:57.29elapsed 1%CPU (0avgtext+0avgdata 65092maxresident)k
+1456inputs+8264outputs (1major+132441minor)pagefaults 0swaps
+50.98user 9.24system 53:36.53elapsed 1%CPU (0avgtext+0avgdata 65044maxresident)k
+760inputs+9272outputs (1major+132426minor)pagefaults 0swaps
+50.62user 9.23system 54:11.72elapsed 1%CPU (0avgtext+0avgdata 64600maxresident)k
+760inputs+9208outputs (1major+132785minor)pagefaults 0swaps
+51.13user 9.94system 54:08.28elapsed 1%CPU (0avgtext+0avgdata 65060maxresident)k
+760inputs+8904outputs (1major+132495minor)pagefaults 0swaps
+51.13user 9.48system 54:12.38elapsed 1%CPU (0avgtext+0avgdata 64900maxresident)k
+760inputs+9512outputs (1major+132380minor)pagefaults 0swaps
+51.13user 9.42system 54:03.45elapsed 1%CPU (0avgtext+0avgdata 64964maxresident)k
+1512inputs+9512outputs (1major+132428minor)pagefaults 0swaps
+51.10user 9.56system 54:07.73elapsed 1%CPU (0avgtext+0avgdata 64896maxresident)k
+752inputs+9560outputs (1major+132347minor)pagefaults 0swaps
+51.16user 9.85system 54:10.02elapsed 1%CPU (0avgtext+0avgdata 64840maxresident)k
+760inputs+9656outputs (1major+132408minor)pagefaults 0swaps
+51.72user 10.67system 54:13.23elapsed 1%CPU (0avgtext+0avgdata 64900maxresident)k
+760inputs+8664outputs (1major+132271minor)pagefaults 0swaps
+51.29user 10.10system 53:38.36elapsed 1%CPU (0avgtext+0avgdata 64928maxresident)k
+752inputs+9136outputs (1major+132356minor)pagefaults 0swaps
+51.11user 9.66system 54:03.33elapsed 1%CPU (0avgtext+0avgdata 65216maxresident)k
+944inputs+9472outputs (1major+133009minor)pagefaults 0swaps
+50.46user 9.18system 54:14.98elapsed 1%CPU (0avgtext+0avgdata 64736maxresident)k
+752inputs+7888outputs (1major+132419minor)pagefaults 0swaps
+51.78user 9.73system 54:19.26elapsed 1%CPU (0avgtext+0avgdata 65120maxresident)k
+752inputs+9496outputs (1major+132411minor)pagefaults 0swaps
+51.07user 9.77system 53:44.93elapsed 1%CPU (0avgtext+0avgdata 65116maxresident)k
+752inputs+9624outputs (1major+132418minor)pagefaults 0swaps
+50.89user 8.83system 54:09.09elapsed 1%CPU (0avgtext+0avgdata 65116maxresident)k
+760inputs+8784outputs (1major+132803minor)pagefaults 0swaps
+50.16user 8.71system 54:05.30elapsed 1%CPU (0avgtext+0avgdata 64744maxresident)k
+752inputs+9512outputs (1major+132228minor)pagefaults 0swaps
+51.42user 9.34system 53:32.07elapsed 1%CPU (0avgtext+0avgdata 64992maxresident)k
+752inputs+9224outputs (1major+132952minor)pagefaults 0swaps
+51.11user 9.73system 53:31.73elapsed 1%CPU (0avgtext+0avgdata 64924maxresident)k
+760inputs+9464outputs (1major+132937minor)pagefaults 0swaps
+51.29user 9.89system 54:13.30elapsed 1%CPU (0avgtext+0avgdata 64968maxresident)k
+776inputs+8504outputs (1major+132927minor)pagefaults 0swaps
+51.90user 9.47system 54:15.96elapsed 1%CPU (0avgtext+0avgdata 64844maxresident)k
+752inputs+8808outputs (1major+133056minor)pagefaults 0swaps
+50.83user 9.95system 54:04.16elapsed 1%CPU (0avgtext+0avgdata 64936maxresident)k
+752inputs+8120outputs (1major+132354minor)pagefaults 0swaps
+50.66user 9.38system 54:13.45elapsed 1%CPU (0avgtext+0avgdata 65056maxresident)k
+760inputs+9120outputs (1major+132886minor)pagefaults 0swaps
+51.58user 9.18system 54:17.90elapsed 1%CPU (0avgtext+0avgdata 64824maxresident)k
+2128inputs+8952outputs (1major+132386minor)pagefaults 0swaps
+51.43user 9.23system 53:58.80elapsed 1%CPU (0avgtext+0avgdata 65008maxresident)k
+752inputs+9576outputs (1major+133041minor)pagefaults 0swaps
+51.27user 9.80system 53:35.62elapsed 1%CPU (0avgtext+0avgdata 64976maxresident)k
+752inputs+9672outputs (1major+133071minor)pagefaults 0swaps
+50.78user 9.60system 54:12.44elapsed 1%CPU (0avgtext+0avgdata 65052maxresident)k
+752inputs+9024outputs (1major+132394minor)pagefaults 0swaps
+51.76user 9.49system 53:59.07elapsed 1%CPU (0avgtext+0avgdata 65044maxresident)k
+752inputs+8288outputs (1major+132372minor)pagefaults 0swaps
+51.08user 9.54system 54:06.02elapsed 1%CPU (0avgtext+0avgdata 64788maxresident)k
+760inputs+8968outputs (1major+132298minor)pagefaults 0swaps
+51.47user 9.33system 53:48.66elapsed 1%CPU (0avgtext+0avgdata 64892maxresident)k
+760inputs+9144outputs (1major+132720minor)pagefaults 0swaps
+51.23user 8.89system 53:46.54elapsed 1%CPU (0avgtext+0avgdata 64824maxresident)k
+752inputs+8648outputs (1major+132208minor)pagefaults 0swaps
+51.22user 9.64system 54:01.44elapsed 1%CPU (0avgtext+0avgdata 64848maxresident)k
+760inputs+8088outputs (1major+132945minor)pagefaults 0swaps
+51.33user 9.43system 54:22.82elapsed 1%CPU (0avgtext+0avgdata 64856maxresident)k
+752inputs+8864outputs (1major+132849minor)pagefaults 0swaps
+51.06user 9.99system 54:03.74elapsed 1%CPU (0avgtext+0avgdata 64836maxresident)k
+752inputs+7584outputs (1major+132333minor)pagefaults 0swaps
+51.23user 9.40system 53:49.70elapsed 1%CPU (0avgtext+0avgdata 64872maxresident)k
+760inputs+9224outputs (1major+132696minor)pagefaults 0swaps
+51.18user 9.37system 54:14.44elapsed 1%CPU (0avgtext+0avgdata 64952maxresident)k
+752inputs+9688outputs (1major+132363minor)pagefaults 0swaps
+51.08user 9.93system 54:04.54elapsed 1%CPU (0avgtext+0avgdata 64960maxresident)k
+752inputs+9296outputs (1major+132285minor)pagefaults 0swaps
+51.21user 9.40system 53:49.25elapsed 1%CPU (0avgtext+0avgdata 64944maxresident)k
+752inputs+9456outputs (1major+132463minor)pagefaults 0swaps
+51.31user 9.51system 54:22.57elapsed 1%CPU (0avgtext+0avgdata 64896maxresident)k
+752inputs+9528outputs (1major+132962minor)pagefaults 0swaps
+51.27user 9.40system 54:20.04elapsed 1%CPU (0avgtext+0avgdata 64956maxresident)k
+1616inputs+9272outputs (1major+132966minor)pagefaults 0swaps
+50.95user 9.24system 54:32.12elapsed 1%CPU (0avgtext+0avgdata 65044maxresident)k
+712inputs+9376outputs (1major+132940minor)pagefaults 0swaps
+50.69user 8.83system 54:09.58elapsed 1%CPU (0avgtext+0avgdata 64972maxresident)k
+752inputs+9608outputs (1major+133066minor)pagefaults 0swaps
+50.91user 8.93system 54:12.58elapsed 1%CPU (0avgtext+0avgdata 64748maxresident)k
+920inputs+8256outputs (1major+132359minor)pagefaults 0swaps
+51.36user 9.66system 53:51.30elapsed 1%CPU (0avgtext+0avgdata 64832maxresident)k
+752inputs+8664outputs (1major+132212minor)pagefaults 0swaps
+51.33user 10.18system 54:32.39elapsed 1%CPU (0avgtext+0avgdata 65152maxresident)k
+752inputs+8192outputs (1major+132314minor)pagefaults 0swaps
+51.09user 8.60system 54:32.03elapsed 1%CPU (0avgtext+0avgdata 64688maxresident)k
+752inputs+9408outputs (1major+132807minor)pagefaults 0swaps
+50.89user 9.30system 54:24.78elapsed 1%CPU (0avgtext+0avgdata 64792maxresident)k
+720inputs+8488outputs (1major+132329minor)pagefaults 0swaps
+50.67user 9.65system 53:53.46elapsed 1%CPU (0avgtext+0avgdata 65092maxresident)k
+760inputs+8848outputs (1major+132940minor)pagefaults 0swaps
+51.29user 9.69system 54:31.86elapsed 1%CPU (0avgtext+0avgdata 64896maxresident)k
+760inputs+9144outputs (1major+132876minor)pagefaults 0swaps
+50.88user 9.07system 53:52.13elapsed 1%CPU (0avgtext+0avgdata 65032maxresident)k
+760inputs+9096outputs (1major+132382minor)pagefaults 0swaps
+50.81user 8.53system 54:19.80elapsed 1%CPU (0avgtext+0avgdata 64980maxresident)k
+760inputs+9216outputs (1major+132871minor)pagefaults 0swaps
+50.84user 9.20system 54:25.85elapsed 1%CPU (0avgtext+0avgdata 64916maxresident)k
+1440inputs+8608outputs (1major+132978minor)pagefaults 0swaps
+50.48user 9.31system 54:27.08elapsed 1%CPU (0avgtext+0avgdata 64808maxresident)k
+752inputs+9640outputs (1major+132882minor)pagefaults 0swaps
+51.58user 9.35system 53:54.62elapsed 1%CPU (0avgtext+0avgdata 64972maxresident)k
+752inputs+9320outputs (1major+132980minor)pagefaults 0swaps
+50.78user 9.65system 54:34.05elapsed 1%CPU (0avgtext+0avgdata 64820maxresident)k
+760inputs+9528outputs (1major+132840minor)pagefaults 0swaps
+51.10user 8.94system 54:00.10elapsed 1%CPU (0avgtext+0avgdata 65056maxresident)k
+760inputs+8880outputs (1major+133014minor)pagefaults 0swaps
+51.32user 9.41system 54:30.55elapsed 1%CPU (0avgtext+0avgdata 64888maxresident)k
+760inputs+8416outputs (1major+132402minor)pagefaults 0swaps
+50.80user 9.27system 54:25.58elapsed 1%CPU (0avgtext+0avgdata 64996maxresident)k
+648inputs+9208outputs (1major+132476minor)pagefaults 0swaps
+51.05user 9.61system 54:03.90elapsed 1%CPU (0avgtext+0avgdata 64644maxresident)k
+752inputs+8952outputs (1major+132286minor)pagefaults 0swaps
+51.69user 10.04system 54:10.89elapsed 1%CPU (0avgtext+0avgdata 65032maxresident)k
+728inputs+9480outputs (1major+132349minor)pagefaults 0swaps
+51.75user 9.79system 54:06.89elapsed 1%CPU (0avgtext+0avgdata 65016maxresident)k
+760inputs+8128outputs (1major+132385minor)pagefaults 0swaps
+50.81user 9.15system 54:03.91elapsed 1%CPU (0avgtext+0avgdata 65028maxresident)k
+752inputs+9664outputs (1major+133019minor)pagefaults 0swaps
+50.91user 9.58system 54:21.32elapsed 1%CPU (0avgtext+0avgdata 64964maxresident)k
+752inputs+9216outputs (1major+132501minor)pagefaults 0swaps
+50.76user 9.49system 54:38.27elapsed 1%CPU (0avgtext+0avgdata 64960maxresident)k
+760inputs+9704outputs (1major+133013minor)pagefaults 0swaps
+51.09user 8.97system 54:35.60elapsed 1%CPU (0avgtext+0avgdata 64908maxresident)k
+760inputs+9504outputs (1major+132873minor)pagefaults 0swaps
+50.88user 9.51system 54:28.17elapsed 1%CPU (0avgtext+0avgdata 64844maxresident)k
+760inputs+9328outputs (1major+132881minor)pagefaults 0swaps
+50.88user 9.69system 54:37.19elapsed 1%CPU (0avgtext+0avgdata 64696maxresident)k
+760inputs+9432outputs (1major+132783minor)pagefaults 0swaps
+50.78user 9.48system 54:39.17elapsed 1%CPU (0avgtext+0avgdata 64700maxresident)k
+760inputs+9384outputs (1major+132935minor)pagefaults 0swaps
+50.96user 9.15system 54:28.58elapsed 1%CPU (0avgtext+0avgdata 65020maxresident)k
+1496inputs+8912outputs (1major+132441minor)pagefaults 0swaps
+51.13user 9.32system 54:06.13elapsed 1%CPU (0avgtext+0avgdata 64756maxresident)k
+752inputs+8440outputs (1major+132314minor)pagefaults 0swaps
+50.72user 8.94system 54:25.42elapsed 1%CPU (0avgtext+0avgdata 65080maxresident)k
+760inputs+8872outputs (1major+132588minor)pagefaults 0swaps
+51.00user 9.27system 54:38.83elapsed 1%CPU (0avgtext+0avgdata 65004maxresident)k
+760inputs+9648outputs (1major+132884minor)pagefaults 0swaps
+51.35user 9.48system 54:11.43elapsed 1%CPU (0avgtext+0avgdata 64952maxresident)k
+752inputs+7728outputs (1major+132460minor)pagefaults 0swaps
+51.29user 9.52system 53:56.33elapsed 1%CPU (0avgtext+0avgdata 64980maxresident)k
+760inputs+9168outputs (1major+132345minor)pagefaults 0swaps
+51.02user 9.91system 54:41.02elapsed 1%CPU (0avgtext+0avgdata 64944maxresident)k
+752inputs+9544outputs (1major+133017minor)pagefaults 0swaps
+50.98user 9.55system 54:16.47elapsed 1%CPU (0avgtext+0avgdata 64812maxresident)k
+760inputs+9672outputs (1major+132297minor)pagefaults 0swaps
+51.26user 8.90system 53:58.22elapsed 1%CPU (0avgtext+0avgdata 64848maxresident)k
+760inputs+9496outputs (1major+132948minor)pagefaults 0swaps
+51.57user 9.68system 54:06.18elapsed 1%CPU (0avgtext+0avgdata 64976maxresident)k
+752inputs+9584outputs (1major+132407minor)pagefaults 0swaps
+50.95user 9.57system 54:37.48elapsed 1%CPU (0avgtext+0avgdata 64804maxresident)k
+720inputs+9440outputs (1major+132798minor)pagefaults 0swaps
+51.48user 10.06system 54:38.48elapsed 1%CPU (0avgtext+0avgdata 64844maxresident)k
+752inputs+9224outputs (1major+132846minor)pagefaults 0swaps
+51.27user 10.06system 54:33.37elapsed 1%CPU (0avgtext+0avgdata 64632maxresident)k
+760inputs+8240outputs (1major+132342minor)pagefaults 0swaps
+50.33user 9.45system 53:50.02elapsed 1%CPU (0avgtext+0avgdata 64864maxresident)k
+760inputs+9368outputs (1major+132398minor)pagefaults 0swaps
+51.16user 9.57system 53:56.44elapsed 1%CPU (0avgtext+0avgdata 64936maxresident)k
+752inputs+9568outputs (1major+132864minor)pagefaults 0swaps
+50.87user 9.40system 53:51.46elapsed 1%CPU (0avgtext+0avgdata 65036maxresident)k
+760inputs+9504outputs (1major+132952minor)pagefaults 0swaps
+51.73user 9.90system 54:24.85elapsed 1%CPU (0avgtext+0avgdata 64748maxresident)k
+760inputs+8264outputs (1major+132823minor)pagefaults 0swaps
+50.99user 9.82system 54:00.87elapsed 1%CPU (0avgtext+0avgdata 64684maxresident)k
+752inputs+9104outputs (1major+132917minor)pagefaults 0swaps
+51.44user 10.11system 53:50.79elapsed 1%CPU (0avgtext+0avgdata 64920maxresident)k
+760inputs+8968outputs (1major+132348minor)pagefaults 0swaps
+51.20user 10.02system 54:20.04elapsed 1%CPU (0avgtext+0avgdata 64756maxresident)k
+752inputs+8864outputs (1major+132963minor)pagefaults 0swaps
+51.04user 9.30system 54:31.32elapsed 1%CPU (0avgtext+0avgdata 64780maxresident)k
+1584inputs+9024outputs (1major+132803minor)pagefaults 0swaps
+50.93user 9.71system 54:20.28elapsed 1%CPU (0avgtext+0avgdata 64896maxresident)k
+760inputs+7960outputs (1major+132556minor)pagefaults 0swaps
+51.66user 9.73system 54:01.11elapsed 1%CPU (0avgtext+0avgdata 64872maxresident)k
+760inputs+9376outputs (1major+132853minor)pagefaults 0swaps
+51.25user 9.04system 54:34.87elapsed 1%CPU (0avgtext+0avgdata 64920maxresident)k
+3840inputs+8344outputs (1major+132458minor)pagefaults 0swaps
+50.57user 9.22system 53:57.70elapsed 1%CPU (0avgtext+0avgdata 64516maxresident)k
+752inputs+8880outputs (1major+132294minor)pagefaults 0swaps
+50.96user 10.15system 54:43.05elapsed 1%CPU (0avgtext+0avgdata 65032maxresident)k
+752inputs+9344outputs (1major+132380minor)pagefaults 0swaps
+51.10user 9.48system 54:46.29elapsed 1%CPU (0avgtext+0avgdata 64968maxresident)k
+752inputs+8832outputs (1major+132881minor)pagefaults 0swaps
+51.74user 10.61system 54:45.27elapsed 1%CPU (0avgtext+0avgdata 64740maxresident)k
+760inputs+8200outputs (1major+132268minor)pagefaults 0swaps
+51.38user 9.96system 54:40.19elapsed 1%CPU (0avgtext+0avgdata 65020maxresident)k
+752inputs+9528outputs (1major+132438minor)pagefaults 0swaps
+51.06user 9.16system 54:21.21elapsed 1%CPU (0avgtext+0avgdata 64856maxresident)k
+736inputs+8424outputs (1major+132916minor)pagefaults 0swaps
+50.60user 9.46system 54:11.63elapsed 1%CPU (0avgtext+0avgdata 64936maxresident)k
+760inputs+9672outputs (1major+133060minor)pagefaults 0swaps
+51.19user 9.58system 54:01.59elapsed 1%CPU (0avgtext+0avgdata 64908maxresident)k
+752inputs+9096outputs (1major+132966minor)pagefaults 0swaps
+51.16user 9.24system 54:41.92elapsed 1%CPU (0avgtext+0avgdata 65144maxresident)k
+752inputs+9656outputs (1major+133112minor)pagefaults 0swaps
+51.07user 9.54system 53:57.39elapsed 1%CPU (0avgtext+0avgdata 64820maxresident)k
+752inputs+9728outputs (1major+132894minor)pagefaults 0swaps
+51.07user 9.41system 54:17.29elapsed 1%CPU (0avgtext+0avgdata 65040maxresident)k
+752inputs+9392outputs (1major+132486minor)pagefaults 0swaps
+51.09user 9.04system 54:13.23elapsed 1%CPU (0avgtext+0avgdata 64896maxresident)k
+760inputs+9608outputs (1major+132910minor)pagefaults 0swaps
+51.15user 9.20system 54:24.76elapsed 1%CPU (0avgtext+0avgdata 64848maxresident)k
+760inputs+9512outputs (1major+132874minor)pagefaults 0swaps
+51.24user 9.22system 54:42.69elapsed 1%CPU (0avgtext+0avgdata 65020maxresident)k
+752inputs+9224outputs (1major+132450minor)pagefaults 0swaps
+50.89user 9.41system 54:30.74elapsed 1%CPU (0avgtext+0avgdata 65052maxresident)k
+952inputs+8736outputs (1major+132516minor)pagefaults 0swaps
+50.89user 9.92system 54:43.50elapsed 1%CPU (0avgtext+0avgdata 64820maxresident)k
+752inputs+9064outputs (1major+132341minor)pagefaults 0swaps
+51.99user 10.34system 54:45.37elapsed 1%CPU (0avgtext+0avgdata 64924maxresident)k
+728inputs+9392outputs (1major+132321minor)pagefaults 0swaps
+51.08user 9.41system 54:18.73elapsed 1%CPU (0avgtext+0avgdata 64764maxresident)k
+760inputs+8552outputs (1major+132944minor)pagefaults 0swaps
+51.44user 9.45system 54:02.15elapsed 1%CPU (0avgtext+0avgdata 64996maxresident)k
+720inputs+9456outputs (1major+132967minor)pagefaults 0swaps
+51.31user 9.48system 54:18.59elapsed 1%CPU (0avgtext+0avgdata 64840maxresident)k
+760inputs+7768outputs (1major+132844minor)pagefaults 0swaps
+50.85user 9.43system 54:36.98elapsed 1%CPU (0avgtext+0avgdata 64856maxresident)k
+944inputs+9072outputs (1major+132308minor)pagefaults 0swaps
+50.84user 10.02system 54:30.98elapsed 1%CPU (0avgtext+0avgdata 64976maxresident)k
+760inputs+9168outputs (1major+132434minor)pagefaults 0swaps
+51.07user 9.42system 54:01.55elapsed 1%CPU (0avgtext+0avgdata 64856maxresident)k
+752inputs+9112outputs (1major+132378minor)pagefaults 0swaps
+51.40user 9.62system 54:35.71elapsed 1%CPU (0avgtext+0avgdata 64892maxresident)k
+752inputs+7944outputs (1major+132974minor)pagefaults 0swaps
+51.34user 10.58system 54:02.61elapsed 1%CPU (0avgtext+0avgdata 64868maxresident)k
+752inputs+8976outputs (1major+132339minor)pagefaults 0swaps
+51.61user 10.13system 54:43.89elapsed 1%CPU (0avgtext+0avgdata 64776maxresident)k
+752inputs+9184outputs (1major+132828minor)pagefaults 0swaps
+51.16user 9.15system 54:44.84elapsed 1%CPU (0avgtext+0avgdata 65084maxresident)k
+752inputs+9504outputs (1major+132366minor)pagefaults 0swaps
+50.85user 9.56system 54:38.14elapsed 1%CPU (0avgtext+0avgdata 64860maxresident)k
+952inputs+8800outputs (1major+132860minor)pagefaults 0swaps
+50.70user 10.01system 54:19.77elapsed 1%CPU (0avgtext+0avgdata 64956maxresident)k
+752inputs+8360outputs (1major+132365minor)pagefaults 0swaps
+51.89user 9.95system 54:48.83elapsed 1%CPU (0avgtext+0avgdata 64656maxresident)k
+752inputs+9752outputs (1major+132336minor)pagefaults 0swaps
+50.76user 9.86system 54:29.58elapsed 1%CPU (0avgtext+0avgdata 64816maxresident)k
+760inputs+8048outputs (1major+132969minor)pagefaults 0swaps
+51.22user 9.47system 54:29.53elapsed 1%CPU (0avgtext+0avgdata 64808maxresident)k
+752inputs+9336outputs (1major+133328minor)pagefaults 0swaps
+50.81user 9.42system 54:41.82elapsed 1%CPU (0avgtext+0avgdata 64840maxresident)k
+752inputs+9568outputs (1major+132764minor)pagefaults 0swaps
+50.81user 9.39system 54:45.85elapsed 1%CPU (0avgtext+0avgdata 64904maxresident)k
+760inputs+9160outputs (1major+132224minor)pagefaults 0swaps
+51.13user 9.71system 54:04.00elapsed 1%CPU (0avgtext+0avgdata 64992maxresident)k
+760inputs+9520outputs (1major+132370minor)pagefaults 0swaps
+50.84user 8.84system 54:02.05elapsed 1%CPU (0avgtext+0avgdata 64980maxresident)k
+728inputs+9288outputs (1major+132904minor)pagefaults 0swaps
+51.41user 8.97system 54:02.49elapsed 1%CPU (0avgtext+0avgdata 64952maxresident)k
+752inputs+9640outputs (1major+132871minor)pagefaults 0swaps
+51.55user 9.23system 54:39.44elapsed 1%CPU (0avgtext+0avgdata 64888maxresident)k
+760inputs+9136outputs (1major+132897minor)pagefaults 0swaps
+51.15user 9.44system 54:04.28elapsed 1%CPU (0avgtext+0avgdata 65040maxresident)k
+752inputs+9664outputs (1major+132387minor)pagefaults 0swaps
+51.12user 9.75system 54:42.99elapsed 1%CPU (0avgtext+0avgdata 64884maxresident)k
+752inputs+9688outputs (1major+132961minor)pagefaults 0swaps
+50.76user 9.04system 54:10.13elapsed 1%CPU (0avgtext+0avgdata 64900maxresident)k
+752inputs+9688outputs (1major+132962minor)pagefaults 0swaps
+50.96user 9.29system 54:08.62elapsed 1%CPU (0avgtext+0avgdata 64888maxresident)k
+760inputs+9176outputs (1major+133061minor)pagefaults 0swaps
+50.82user 9.45system 54:30.89elapsed 1%CPU (0avgtext+0avgdata 64832maxresident)k
+752inputs+9352outputs (1major+132714minor)pagefaults 0swaps
+50.76user 8.89system 54:04.18elapsed 1%CPU (0avgtext+0avgdata 64952maxresident)k
+760inputs+9264outputs (1major+132315minor)pagefaults 0swaps
+50.63user 9.18system 54:21.04elapsed 1%CPU (0avgtext+0avgdata 64952maxresident)k
+752inputs+8032outputs (1major+132849minor)pagefaults 0swaps
+51.57user 9.69system 54:24.19elapsed 1%CPU (0avgtext+0avgdata 64832maxresident)k
+752inputs+8664outputs (1major+132333minor)pagefaults 0swaps
+50.86user 9.37system 54:23.36elapsed 1%CPU (0avgtext+0avgdata 64916maxresident)k
+752inputs+8864outputs (1major+132974minor)pagefaults 0swaps
+51.42user 9.85system 54:23.23elapsed 1%CPU (0avgtext+0avgdata 65108maxresident)k
+760inputs+9144outputs (1major+132583minor)pagefaults 0swaps
+50.73user 9.31system 54:37.58elapsed 1%CPU (0avgtext+0avgdata 64924maxresident)k
+760inputs+8408outputs (1major+132225minor)pagefaults 0swaps
+50.53user 8.90system 54:22.40elapsed 1%CPU (0avgtext+0avgdata 65116maxresident)k
+752inputs+9648outputs (1major+132755minor)pagefaults 0swaps
+50.86user 8.95system 54:22.05elapsed 1%CPU (0avgtext+0avgdata 64996maxresident)k
+760inputs+9136outputs (1major+132371minor)pagefaults 0swaps
+50.62user 8.80system 54:39.16elapsed 1%CPU (0avgtext+0avgdata 64936maxresident)k
+760inputs+8360outputs (1major+132531minor)pagefaults 0swaps
+50.87user 9.76system 54:43.32elapsed 1%CPU (0avgtext+0avgdata 64892maxresident)k
+72inputs+8528outputs (1major+132858minor)pagefaults 0swaps
+50.98user 9.74system 54:10.79elapsed 1%CPU (0avgtext+0avgdata 64908maxresident)k
+744inputs+9640outputs (1major+132353minor)pagefaults 0swaps
+50.63user 9.45system 54:12.63elapsed 1%CPU (0avgtext+0avgdata 64840maxresident)k
+736inputs+9128outputs (1major+132437minor)pagefaults 0swaps
+51.03user 9.68system 54:08.99elapsed 1%CPU (0avgtext+0avgdata 65028maxresident)k
+752inputs+9800outputs (1major+132412minor)pagefaults 0swaps
+51.19user 10.00system 54:15.29elapsed 1%CPU (0avgtext+0avgdata 65076maxresident)k
+760inputs+9552outputs (1major+132495minor)pagefaults 0swaps
+50.77user 9.20system 54:28.02elapsed 1%CPU (0avgtext+0avgdata 64964maxresident)k
+760inputs+7960outputs (1major+132414minor)pagefaults 0swaps
+50.91user 9.31system 54:43.10elapsed 1%CPU (0avgtext+0avgdata 64964maxresident)k
+752inputs+9368outputs (1major+132358minor)pagefaults 0swaps
+50.67user 10.06system 54:56.48elapsed 1%CPU (0avgtext+0avgdata 64948maxresident)k
+752inputs+9408outputs (1major+132893minor)pagefaults 0swaps
+51.22user 9.73system 54:57.61elapsed 1%CPU (0avgtext+0avgdata 64724maxresident)k
+752inputs+8784outputs (1major+132408minor)pagefaults 0swaps
+50.91user 9.66system 54:44.78elapsed 1%CPU (0avgtext+0avgdata 64704maxresident)k
+752inputs+8448outputs (1major+132403minor)pagefaults 0swaps
+51.21user 9.63system 54:44.42elapsed 1%CPU (0avgtext+0avgdata 64848maxresident)k
+752inputs+9064outputs (1major+132844minor)pagefaults 0swaps
+50.95user 9.88system 54:57.97elapsed 1%CPU (0avgtext+0avgdata 64844maxresident)k
+760inputs+9200outputs (1major+132874minor)pagefaults 0swaps
+50.96user 8.92system 54:19.22elapsed 1%CPU (0avgtext+0avgdata 64932maxresident)k
+744inputs+8912outputs (1major+132721minor)pagefaults 0swaps
+51.29user 9.86system 54:49.04elapsed 1%CPU (0avgtext+0avgdata 64908maxresident)k
+760inputs+9392outputs (1major+132966minor)pagefaults 0swaps
+51.72user 9.13system 54:55.76elapsed 1%CPU (0avgtext+0avgdata 64792maxresident)k
+600inputs+8600outputs (1major+132936minor)pagefaults 0swaps

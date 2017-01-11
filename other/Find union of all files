@@ -1,0 +1,2 @@
+cat file1  file2 file3 ....... > filen
+sort filen | uniq > output

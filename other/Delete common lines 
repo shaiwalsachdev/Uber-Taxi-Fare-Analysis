@@ -1,0 +1,3 @@
+comm -23 <(sort zone16_loc.txt) <(sort zone13_loc.txt) > fincom.txt
+
+Delete common lines from zone16 ---> fincom.txt
